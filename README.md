@@ -48,8 +48,7 @@ Evolución hacia un asistente empresarial con IA
 
 Este modelo también constituye una base sólida para evolucionar hacia un asistente inteligente corporativo. En lugar de responder únicamente con opciones fijas, el motor de estados puede integrarse con:
 
-Un modelo de IA (local o en la nube) para interpretar preguntas en lenguaje natural.
+Un modelo de IA (local o en la nube) para interpretar preguntas en lenguaje natural. 
 Servicios empresariales (ERP, CRM, Core Bancario, WMS, RR. HH., etc.).
-Tu Enterprise Knowledge Discovery Platform, permitiendo que el bot consulte automáticamente documentación funcional, reglas de negocio, dependencias de programas RPG/COBOL, impactos, linaje de datos o resultados del analizador de código.
 
 De esta forma, el mismo diseño pasa de ser un simple menú conversacional a un asistente empresarial inteligente capaz de responder consultas técnicas y de negocio utilizando el conocimiento extraído de los sistemas legacy.
